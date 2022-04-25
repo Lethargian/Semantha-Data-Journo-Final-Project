@@ -21,9 +21,15 @@ Semantha Norris (5/4/22)
   * GO TO: Data > Split text > detect automatically
   * Rename new columns DATE and TIME respectively
 
+!['Q1-img-01', 'Screenshot of splitting DATETIMEINT into two separate columns'](/Q1-img-01.jpg)
+
 2. Create a Pivot table
   * ROW = DATE, sort by VALUES Z-A
   * Values = REQUESTID, summurized by COUNTA
+
+!['Q1-img-02', 'Screenshot of pivot table settings for Q1'](/Q1-img-02.jpg)
+
+!['Q1-img-03', 'Screenshot of the sorted pivot table for Q1'](/Q1-img-03.jpg)
 
 3. Sort by year, highlight the cells in the VALUES column for a particular year and see the SUM at the bottom right corner. 
 
