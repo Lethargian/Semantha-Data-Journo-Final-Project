@@ -13,7 +13,7 @@ Semantha Norris (5/4/22)
 6. What percentage of service requests have been addressed? 
 7. What percentage of service requests remain open?
 
-## Q1 - Has the number of service requests increased or decreased?
+## Q1 - What year had the most services requests?
 
 1. split the DATETIMEINT into two separate columns
   * duplicate the column
