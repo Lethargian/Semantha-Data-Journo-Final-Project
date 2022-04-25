@@ -4,7 +4,7 @@ Semantha Norris (5/4/22)
 
 # Data Analysis 
 1. What year had the most services requests?
-    * A: 7 of the 10 months with the highest service requests were in 2019. The entire year had ____ service requests, accounting for 
+    * A: 7 of the 10 months with the highest service requests were in 2019. The entire year of 2019 had 5,767 service requests. 
 3. Has the number of service requests increased or decreased?
     * A: Since 2019 the number of service requests has gone down. 
     * This could be in part due to less people driving during the pandemic.
@@ -22,6 +22,10 @@ Semantha Norris (5/4/22)
   * Rename new columns DATE and TIME respectively
 
 2. Create a Pivot table
+  * ROW = DATE, sort by VALUES Z-A
+  * Values = REQUESTID, summurized by COUNTA
+
+3. Sort by year, highlight the cells in the VALUES column for a particular year and see the SUM at the bottom right corner. 
 
 ## Q2
 ## Q3
