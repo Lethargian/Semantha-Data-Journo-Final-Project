@@ -1,7 +1,7 @@
 # Oakland Potholes: slowly fixing the problem
 Semantha Norris (5/4/22)
 
-!['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakalnd pothole service req by year.png)
+!['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakalnd-pothole-service-req-by-year.png)
 
 # Data Analysis 
 1. What year had the most services requests?
