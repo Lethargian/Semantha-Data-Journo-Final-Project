@@ -67,8 +67,8 @@ Semantha Norris (5/4/22)
 2. Add a COLUMN = YEAR
 3. Change VALUES settings to be "% of column"
 
-!['Q3-img-02', 'Screenshot of pivot table settings for Q3'](/Q3-img-02.jpg)
-!['Q3-img-01', 'Screenshot of pivot table for Q3'](/Q3-img-01.jpg)
+!['Q3-img-01', 'Screenshot of pivot table settings for Q3'](/Q3-img-01.jpg)
+!['Q3-img-02', 'Screenshot of pivot table Q3'](/Q3-img-02.jpg)
 
 ## Q4 - Where are the locations with the most service requests?
 
