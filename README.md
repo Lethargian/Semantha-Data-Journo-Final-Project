@@ -15,6 +15,7 @@ Semantha Norris (5/4/22)
    * A: 2020 is similar to the overal ratio, with 13% open and 68% closed
    * 2021 = 30% open and 56% closed
    * 2022 = 60% open and 19% closed
+   * Most open service requests are more recent. 
 4. Where are the locations with the most service requests?
 5. Have the most problematic locations been addressed by the city?
 
