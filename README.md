@@ -29,7 +29,7 @@ Semantha Norris (5/4/22)
    * duplicate the column
    * select the duplicated column
    * GO TO: Data > Split text > custom detector " / "
-   * Rename new third column YEAR and delete the other two
+   * Rename column F "YEAR" and delete colums D&E
 
 !['Q1-img-04', 'Screenshot of splitting data into year'](/Q1-img-04.jpg)
 
