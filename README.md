@@ -4,18 +4,18 @@ Semantha Norris (5/4/22)
 !['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakland_ServiceReq_Year.jpg)
 
 # Data Analysis 
-1. What year had the most services requests?
+1. What year had the most services requests? Has the number of service requests increased or decreased?
     * A: 7 of the 10 months with the highest service requests were in 2019. The entire year of 2019 had 5,767 service requests. 
-2. Has the number of service requests increased or decreased?
     * A: Number of requested peaked in 2019, and since 2019 the number of service requests has gone down. 
     * This could be in part due to less people driving during the pandemic.
     * It could also be because of the paving work being done by the City. 
+2. What percentage of service requests have been addressed? What percentage of service requests remain open?
+   * A: 68% of all request have been closed. 14% remain open. 
 3. Where are the locations with the most service requests?
-4. What percentage of service requests have been addressed? What percentage of service requests remain open?
-   * A: 
-6. Q5
+4. Q4
+5. Q5
 
-## Q1 - What year had the most services requests?
+## Q1 - What year had the most services requests? Has the number of service requests increased or decreased?
 
 1. split the DATETIMEINT into two separate columns
   * duplicate the column
@@ -49,13 +49,18 @@ Semantha Norris (5/4/22)
 
 !['Q1-img-06', 'Screenshot of the sorted pivot table for Q1 by year'](/Q1-img-06.jpg)
 
-## Q2 - Has the number of service requests increased or decreased?
+## Q2 - What percentage of service requests have been addressed? What percentage of service requests remain open?
 
-1. Compare the data from Q1 
+1. Create a Pivot table to view by month:
+   * ROWS = STATUS
+   * Values = REQUESTID, summurized by COUNTA, shown as "% of grand total"
+
+!['Q2-img-01', 'Screenshot of pivot table for Q2'](/Q2-img-01.jpg)
+!['Q2-img-02', 'Screenshot of pivot table settings for Q2'](/Q2-img-02.jpg)
 
 ## Q3 - Where are the locations with the most service requests?
 
-## Q4 - What percentage of service requests have been addressed? What percentage of service requests remain open?
+## Q4 - 
 
 ## Q5 - 
 
