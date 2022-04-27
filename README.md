@@ -11,9 +11,12 @@ Semantha Norris (5/4/22)
     * It could also be because of the paving work being done by the City. 
 2. What percentage of service requests have been addressed? What percentage of service requests remain open?
    * A: 68% of all request have been closed. 14% remain open. 
-3. Where are the locations with the most service requests?
-4. Q4
-5. Q5
+3. What have these percentages been over the last 3 years (since the pandemic started)?
+   * A: 2020 is similar to the overal ratio, with 13% open and 68% closed
+   * 2021 = 30% open and 56% closed
+   * 2022 = 60% open and 19% closed
+4. Where are the locations with the most service requests?
+5. Have the most problematic locations been addressed by the city?
 
 ## Q1 - What year had the most services requests? Has the number of service requests increased or decreased?
 
@@ -58,11 +61,18 @@ Semantha Norris (5/4/22)
 !['Q2-img-03', 'Screenshot of pivot table for Q2'](/Q2-img-03.jpg)
 !['Q2-img-02', 'Screenshot of pivot table settings for Q2'](/Q2-img-02.jpg)
 
-## Q3 - Where are the locations with the most service requests?
+## Q3 - What has the open to closed ratio been over the last 3 years (since the pandemic started)?
 
-## Q4 - 
+1. Duplicate the pivot table from Q2
+2. Add a COLUMN = YEAR
+3. Change VALUES settings to be "% of column"
 
-## Q5 - 
+!['Q3-img-02', 'Screenshot of pivot table settings for Q3'](/Q3-img-02.jpg)
+!['Q3-img-01', 'Screenshot of pivot table for Q3'](/Q3-img-01.jpg)
+
+## Q4 - Where are the locations with the most service requests?
+
+## Q5 - Have the most problematic locations been addressed by the city?
 
 
 
