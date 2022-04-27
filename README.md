@@ -55,7 +55,7 @@ Semantha Norris (5/4/22)
    * ROWS = STATUS
    * Values = REQUESTID, summurized by COUNTA, shown as "% of grand total"
 
-!['Q2-img-01', 'Screenshot of pivot table for Q2'](/Q2-img-01.jpg)
+!['Q2-img-03', 'Screenshot of pivot table for Q2'](/Q2-img-03.jpg)
 !['Q2-img-02', 'Screenshot of pivot table settings for Q2'](/Q2-img-02.jpg)
 
 ## Q3 - Where are the locations with the most service requests?
