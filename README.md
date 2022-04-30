@@ -3,6 +3,8 @@ Semantha Norris (5/4/22)
 
 !['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakland_ServiceReq_Year.jpg)
 
+!['21-23 Oakland Funds for Police and Transportation', 'Bar chart comparing OPD's and the Tansporation Departments allocated funds for 2021-2023.'](/2021-2023-allocated-funds-for-oakland-s-police-and-transportation-departments.png)
+
 # Data Analysis 
 1. What year had the most services requests? Has the number of service requests increased or decreased?
     * A: 7 of the 10 months with the highest service requests were in 2019. The entire year of 2019 had 5,767 service requests. 
