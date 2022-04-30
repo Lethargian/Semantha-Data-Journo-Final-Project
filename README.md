@@ -84,7 +84,7 @@ by Semantha Raquel Norris (5/4/22)
 2. Find & Replace the () with blanks
    * Select the LAT column
    * Go to Edit > "find & replace"
-   * Replace the ( with a "blank"
+   * Find "(" replace with a "blank"
    * Do the same for LON
 
 !['Q4-img-02', 'Screenshot of find and replace'](/Q4-img-02.png)
