@@ -1,5 +1,5 @@
-# Oakland Potholes: slowly fixing the problem
-Semantha Norris (5/4/22)
+# Does Oakland’s new 5-year paving plan still fall short?
+by Semantha Raquel Norris (5/4/22)
 
 !['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakland_ServiceReq_Year.jpg)
 
@@ -73,7 +73,21 @@ Semantha Norris (5/4/22)
 !['Q3-img-01', 'Screenshot of pivot table settings for Q3'](/Q3-img-01.jpg)
 !['Q3-img-02', 'Screenshot of pivot table Q3'](/Q3-img-02.jpg)
 
-## Q4 - Where are the locations with the most service requests?
+## Q4 - Where are the locations with the most open service requests?
+
+1. Split REQADDRESS into two columns: LATITUDE & LONGITUDE
+   * GO TO: Data > Split text > detect automatically
+   * Rename new columns LAT & LON
+
+!['Q4-img-01', 'Screenshot of splitting columns'](/Q4-img-01.png)
+
+2. Find & Replace the () with blanks
+   * Select the LAT column
+   * Go to Edit > "find & replace"
+   * Replace the ( with a "blank"
+   * Do the same for LON
+
+!['Q4-img-02', 'Screenshot of find and replace'](/Q4-img-02.png)
 
 ## Q5 - Have the most problematic locations been addressed by the city?
 
