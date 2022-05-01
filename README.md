@@ -19,7 +19,8 @@ by Semantha Raquel Norris (5/4/22)
    * 2022 = 60% open and 19% closed
    * Most open service requests are more recent. 
 4. Where are the locations with the most service requests?
-5. Have the most problematic locations been addressed by the city?
+5. What are the demographics of the areas with the most service requests?
+6. Have the most problematic locations been addressed by the city?
 
 ## Q1 - What year had the most services requests? Has the number of service requests increased or decreased?
 
@@ -89,7 +90,17 @@ by Semantha Raquel Norris (5/4/22)
 
 !['Q4-img-02', 'Screenshot of find and replace'](/Q4-img-02.png)
 
-## Q5 - Have the most problematic locations been addressed by the city?
+3. Copy columns A,C,F,G to a new sheet to condense information.
+4. Filter by "STATUS" column to only view "OPEN" requests.
+
+!['Q4-img-03', 'Screenshot of filter to view only OPEN requests'](/Q4-img-03.png)
+
+6. Copy the information into a new sheet. 
+7. Download the new sheet at a csv file and upload to geocodio.
+8. Upload the geocodio file back into goodle sheets. 
+9. 
+
+## Q5 - What are the demographics of the areas with the most open service requests?
 
 
 
