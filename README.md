@@ -23,10 +23,13 @@ Oakland, CA has some of the worst streets in the country. In 2019 the city adopt
    * A: 2020 is similar to the overal ratio, with 13% open and 68% closed
    * 2021 = 30% open and 56% closed
    * 2022 = 60% open and 19% closed
-   * Most open service requests are more recent. 
+   * Most open service requests are more recent.  
 4. Where are the locations with the most service requests?
-5. What are the demographics of the areas with the most service requests?
-6. Have the most problematic locations been addressed by the city?
+5. What 2 districts have the most service requests? Which two districts have the most open requests?
+   * Total requests: District 4 = 6449, District 1 = 6370
+   * Open requests: District 4 = 1466, District 1 = 801
+
+7. What are the demographics of the areas with the most service requests?
 
 ## Q1 - What year had the most services requests? Has the number of service requests increased or decreased?
 
@@ -80,6 +83,7 @@ Oakland, CA has some of the worst streets in the country. In 2019 the city adopt
 !['Q3-img-01', 'Screenshot of pivot table settings for Q3'](/Q3-img-01.jpg)
 !['Q3-img-02', 'Screenshot of pivot table Q3'](/Q3-img-02.jpg)
 
+
 ## Q4 - Where are the locations with the most open service requests?
 
 1. Split REQADDRESS into two columns: LATITUDE & LONGITUDE
@@ -104,9 +108,18 @@ Oakland, CA has some of the worst streets in the country. In 2019 the city adopt
 6. Copy the information into a new sheet. 
 7. Download the new sheet at a csv file and upload to geocodio.
 8. Upload the geocodio file back into goodle sheets. 
-9. 
 
-## Q5 - What are the demographics of the areas with the most open service requests?
+## Q5 - What 2 districts have the most service requests? Which two districts have the most open requests?
+
+1. Create a Pivot table to view requests by Council district:
+   * ROWS = COUNCILDISTRICT, sort by COUNTA
+   * Values = REQUESTID, summurized by COUNTA
+   * COLUMNS = STATUS
+
+!['Q5-img-01', 'Screenshot of pivot table for Q5'](/Q5-img-01.png)
+!['Q5-img-02', 'Screenshot of pivot table settings for Q5'](/Q5-img-02.png)
+
+## Q6 - What are the demographics of the areas with the most open service requests?
 
 
 
