@@ -28,6 +28,7 @@ Oakland, CA has some of the worst streets in the country. In 2019 the city adopt
 5. What 2 districts have the most service requests? Which two districts have the most open requests?
    * Total requests: District 4 = 6449, District 1 = 6370
    * Open requests: District 4 = 1466, District 1 = 801
+   * 29% of all open service requests are in district 4
 
 7. What are the demographics of the areas with the most service requests?
 
