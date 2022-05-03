@@ -10,6 +10,13 @@ Oakland, CA has some of the worst streets in the country. In 2019 the city adopt
 ### [View the Data Analysis](/Lethargian/Semantha-Data-Journo-Final-Project/blob/main/ANALYSIS)
 
 
+### Datasets:
+
+Pothole Service Requests
+
+Geocodio Open Pothole Service Requests
+
+Oakland 2021-2023 Budjet
 
 
 
