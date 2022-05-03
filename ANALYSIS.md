@@ -11,8 +11,10 @@
    * 2021 = 30% open and 56% closed
    * 2022 = 60% open and 19% closed
    * Most open service requests are more recent.  
-4. Where are the locations with the most service requests?
-5. What 2 districts have the most service requests? Which two districts have the most open requests?
+4. Where are the locations with the most open service requests?
+   * 1-880 = 59
+   * 1-580 = 54
+6. What 2 districts have the most service requests? Which two districts have the most open requests?
    * Total requests: District 4 = 6449, District 1 = 6370
    * Open requests: District 4 = 1466, District 1 = 801
    * 29% of all open service requests are in district 4
