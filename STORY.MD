@@ -17,7 +17,7 @@ Marshall spends hours every day driving through the city doing deliveries. In ad
 
 “Potholes are just a specter of like a $200-$300 expense to replace tires when we don’t have that money available as low wage workers,” says Marshall.
 
-!['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakland_ServiceReq_Year.jpg)
+[!['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakland_ServiceReq_Year.jpg)](https://www.datawrapper.de/_/xdjd1/)
 
 In 2019 the amount of pothole service requests peaked with a total of 5,767 requests. This is the same year that the [Pothole Vigilantes](https://www.potholevigilantes.com/) took matters into their own hands. Frustrated with the pace at which the city was repairing streets, the group of unidentified Oakland residents began buying EZ street asphalt and filling potholes in the middle of the night. The tagline of their website reads, “It would be great if the government did its job. Until then, we are here to fix Oakalnd’s streets.” 
 
@@ -45,7 +45,7 @@ They plan to repave regions with a high concentration of service requests, but m
 
 The annual total of Oakland’s 2021-22 adopted budget is about [$2 billion](https://stories.opengov.com/oaklandca/published/wzlrgZzwc). The entire Transportation Department receives about 4% of allocated budget funds. In comparison the Oakland Police Department has an annual budget more than triple that of the Transportation Department. 
 
-!['21-23 Oakland Funds for Police and Transportation', 'Bar chart comparing OPD's and the Tansporation Departments allocated funds for 2021-2023.'](/2021-2023-allocated-funds-for-oakland-s-police-and-transportation-departments.png)
+[!['21-23 Oakland Funds for Police and Transportation', 'Bar chart comparing OPD's and the Tansporation Departments allocated funds for 2021-2023.'](/2021-2023-allocated-funds-for-oakland-s-police-and-transportation-departments.png)](https://www.datawrapper.de/_/4nGtx/)
 
 Despite service requests dropping since 2019, they still outpace repairs. 
 
