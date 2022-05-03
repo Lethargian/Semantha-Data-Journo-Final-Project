@@ -7,7 +7,7 @@ Oakland, CA has some of the worst streets in the country. In 2019 the city adopt
 
 ### [Read the Story](/Semantha-Data-Journo-Final-Project/STORY)
 
-### [View the Data Analysis](/Semantha-Data-Journo-Final-Project/ANALYSIS)
+### [View the Data Analysis](/Lethargian/Semantha-Data-Journo-Final-Project/blob/main/ANALYSIS)
 
 
 
