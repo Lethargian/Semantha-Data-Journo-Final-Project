@@ -96,9 +96,17 @@
 7. Download the new sheet at a csv file and upload to geocodio.
 8. Upload the geocodio file back into goodle sheets. 
 9. In the new uploaded data set use JOIN to merge the "Number" and "Street" column
-  * Inset a new column to the right of the "Street" column and title it "Address"
-  * Use =JOIN(" ",J2,K2) formula in the new column
-10. 
+   * Inset a new column to the right of the "Street" column and title it "Address"
+   * Use =JOIN(" ",J2,K2) formula in the new column
+
+!['Q4-img-04', 'Screenshot of merging columns'](/Q2-img-04.jpg)
+
+10. Create a pivot table from the new data set
+   * ROWS = Address
+   * Values = REQUESTID, summurized by COUNTA
+
+!['Q2-img-05', 'Screenshot of pivot table for Q2'](/Q2-img-05.jpg)
+!['Q2-img-06', 'Screenshot of pivot table settings for Q2'](/Q2-img-06.jpg)
 
 ## Q5 - What 2 districts have the most service requests? Which two districts have the most open requests?
 
