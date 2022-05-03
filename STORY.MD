@@ -27,11 +27,11 @@ The Vigilantes gained a lot of attention, and were even addressed by Mayor Libby
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Of course <a href="https://twitter.com/hashtag/Oakland?src=hash&amp;ref_src=twsrc%5Etfw">#Oakland</a> has pothole vigilantes -- we&#39;re a DIY town. Tonight we&#39;re asking Council to pass our historically large, $100mil plan to pave 10x the amount of local roads starting July 1. Thanks PVs, this job will be for in-house union pros. <a href="https://t.co/esJMCGqVEh">https://t.co/esJMCGqVEh</a></p>&mdash; Libby Schaaf (@LibbySchaaf) <a href="https://twitter.com/LibbySchaaf/status/1125916750640439296?ref_src=twsrc%5Etfw">May 8, 2019</a></blockquote>
 
-Since implementing the 2019 Pavement Plan, some progress has been made. According to a 2021 OakDot press release 28% of Oakland’s streets are now in good condition, up from just 15% in 2016. Additionally the amount of local streets in poor condition declined for the first time in 10 years. 
+Since implementing the 2019 Pavement Plan, some progress has been made. According to a 2021 OakDot [press release](https://www.oaklandca.gov/news/2021/oakdot-reports-improved-street-quality-delivered-with-measure-kk-funding-proposes-more-progress-with-ambitious-new-5-year-paving-plan) 28% of Oakland’s streets are now in good condition, up from just 15% in 2016. Additionally the amount of local streets in poor condition declined for the first time in 10 years. 
 
 A large portion of streets in poor conditions are in the flatlands, historically poorer communities than the richer neighborhoods in the hills. In addition to being lower income, these are predominantly Black and Brown neighborhoods. A large concentration of open service requests are east of Lake Merritt in Fruitvale and East Oakland. 
 
-Vignesh Swaminathan is a professional engineer, and the CEO and President of Crossroads Lab, an innovative transportation firm. He is more commonly recognized by his 1.5 million TikTok followers as @mrbarricade. In one video Swaminathan discusses how the lack of drainage infrastructure in a redlined neighborhood in East Oakland has led to crumbling streets. After a rain, water sits under the asphalt, softening the dirt underneath and leading to potholes. 
+Vignesh Swaminathan is a professional engineer, and the CEO and President of Crossroads Lab, an innovative transportation firm. He is more commonly recognized by his 1.5 million TikTok followers as [@mrbarricade](https://www.tiktok.com/@mrbarricade?is_from_webapp=1&sender_device=pc). In one [video](https://www.tiktok.com/@mrbarricade/video/6957349147255000325?is_from_webapp=1&sender_device=pc&web_id=7069183494844827141) Swaminathan discusses how the lack of drainage infrastructure in a redlined neighborhood in East Oakland has led to crumbling streets. After a rain, water sits under the asphalt, softening the dirt underneath and leading to potholes. 
 
 Council District 4, represented by Councilmember Sheng Thao, has nearly 30% of all open service requests. This district spans the hills as well as the flatlands. Many of the wealthier districts have a high number of service requests, which could be indicative of problems within the system of how requests are submitted. Many people in low income communities may not have the time to submit requests, know how to navigate the system, or have language barriers. For the city to adequately address the infrastructure needs, they likely need to go beyond the data from 311 service requests. 
 
@@ -43,7 +43,7 @@ TK quote from official
 
 They plan to repave regions with a high concentration of service requests, but many will not be addressed until 2025 or later. And without adequate funding these problems with the infrastructure will continue to arise. 
 
-The annual total of Oakland’s 2021-22 adopted budget is about $2 billion. The entire Transportation Department receives about 4% of allocated budget funds. In comparison the Oakland Police Department has an annual budget more than triple that of the Transportation Department. 
+The annual total of Oakland’s 2021-22 adopted budget is about [$2 billion](https://stories.opengov.com/oaklandca/published/wzlrgZzwc). The entire Transportation Department receives about 4% of allocated budget funds. In comparison the Oakland Police Department has an annual budget more than triple that of the Transportation Department. 
 
 !['21-23 Oakland Funds for Police and Transportation', 'Bar chart comparing OPD's and the Tansporation Departments allocated funds for 2021-2023.'](/2021-2023-allocated-funds-for-oakland-s-police-and-transportation-departments.png)
 
@@ -51,6 +51,23 @@ Despite service requests dropping since 2019, they still outpace repairs.
 
 “The work is never done fast enough to really fix the problem because so many more [potholes] crop up,” says Marshall. 
 
-When potholes aren’t addressed quickly, streets can rapidly deteriorate. As Mr. Barricade states, when the department of transportation is addressing potholes it is simply repaving rather than tackling the underlying drainage or infrastructure issues. This is a band aid solution that will never truly fix the problem.
+When potholes aren’t addressed quickly, streets can rapidly deteriorate. As Mr. Barricade [states](https://www.tiktok.com/@mrbarricade/video/7036933065993702703?is_from_webapp=1&sender_device=pc), when the department of transportation is addressing potholes it is simply repaving rather than tackling the underlying drainage or infrastructure issues. This is a band aid solution that will never truly fix the problem.
 
 There is no denying the paving plans are improving the quality of Oakland’s streets, but without allocating the necessary funds or fixing the underlying issues, the city may continue to be playing catch up with the deteriorating infrastructure. 
+
+
+## Source List
+
+Logan Marshall
+  * Oakland resident / delivery driver
+  * (805) 252-8506
+  * He/him/his
+  * 30 years old
+
+Josie Ahrens
+  * Transportation Planner | Complete Streets Paving & Sidewalks
+  * Co-Chair | Racial Equity Team
+  * City of Oakland | Department of Transportation
+  * jahrens@oaklandca.gov | office: 510-238-6347
+  * pronouns: she/her/hers
+
