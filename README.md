@@ -17,6 +17,9 @@ Oakland, CA has some of the worst streets in the country. In 2019 the city adopt
 [Oakland 2021-2023 Budget](https://docs.google.com/spreadsheets/d/1-bLRtM4mh5GZFc90wR185uqLpmIVF4FdYTbSPG_tjXU/edit?usp=sharing)
 
 
+[Resources](https://docs.google.com/document/d/1lASn6MRoETp1wmbMzwUFQJUjgZvlqDHCOpyNQNpQp44/edit)
+
+
 
 
 
