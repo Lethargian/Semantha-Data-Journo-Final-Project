@@ -35,7 +35,7 @@ Vignesh Swaminathan is a professional engineer, and the CEO and President of Cro
 
 Council District 4, represented by Councilmember Sheng Thao, has nearly 30% of all open service requests. This district spans the hills as well as the flatlands. Many of the wealthier districts have a high number of service requests, which could be indicative of problems within the system of how requests are submitted. Many people in low income communities may not have the time to submit requests, know how to navigate the system, or have language barriers. For the city to adequately address the infrastructure needs, they likely need to go beyond the data from 311 service requests. 
 
-IMG 
+!['Oakland Open Pothole Service Requests', 'Map of open pothole service requests in Oakland'](/)
 
 Last November OakDot announced an ambitious five year plan to tackle Oakland’s potholes with a budget of $60 million annually. 
 
