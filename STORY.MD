@@ -11,21 +11,21 @@ Driving in Oakland, California can sometimes feel like a video game, swerving be
 
 “Potholes are an unnecessary added stress,” says Oakland resident Logan Marshall. He claims some of the potholes are so bad you can instantly pop a tire driving over them. 
 
-According to a 2019 Metropolitan Transportation Commission (MTC) [report](https://mtc.ca.gov/sites/default/files/PCI_table_2019_data.pdf) Oakland has a Pavement Conditions Index (PCI) rating of 53 out of 100, placing it as one of the worst in the region and in “at risk standing”. MTC defines at risk as, “Pavements are deteriorated and require immediate attention including rehabilitative work. Ride quality is significantly inferior to better pavement categories.”
+According to a 2019 Metropolitan Transportation Commission (MTC) [report](https://mtc.ca.gov/sites/default/files/PCI_table_2019_data.pdf), Oakland has a Pavement Conditions Index (PCI) rating of 53 out of 100, placing it as one of the worst in the region and in “at risk standing”. MTC defines at risk as, “Pavements are deteriorated and require immediate attention including rehabilitative work. Ride quality is significantly inferior to better pavement categories.”
 
-Marshall spends hours every day driving through the city doing deliveries. In addition to raising gas prices, the lack of city infrastructure factors into his work expenses. He has spent hundreds of dollars on new tires, and maintenance repairs for his vehicle.
+Marshall spends hours every day driving through the city doing deliveries. In addition to rising gas prices, the lack of city infrastructure factors into his work expenses. He has spent hundreds of dollars on new tires and maintenance repairs for his vehicle.
 
-“Potholes are just a specter of like a $200-$300 expense to replace tires when we don’t have that money available as low wage workers,” says Marshall.
+“Potholes can cause a $200-$300 expense to replace tires when we don’t have that money available as low wage workers,” says Marshall.
 
 Potholes are a symptom of other underlying issues such as water damage, temperature changes, and general wear and tear. 
 
-Vignesh Swaminathan is a professional engineer, and the CEO and President of Crossroads Lab, an innovative transportation firm. He is more commonly recognized by his 1.5 million TikTok followers as [@mrbarricade](https://www.tiktok.com/@mrbarricade?is_from_webapp=1&sender_device=pc). In one [video](https://www.tiktok.com/@mrbarricade/video/6957349147255000325?is_from_webapp=1&sender_device=pc&web_id=7069183494844827141) Swaminathan discusses how the lack of drainage infrastructure in a redlined neighborhood in East Oakland has led to crumbling streets. After a rain water sits stagnant, eroding the asphalt, softening the dirt underneath, and leading to potholes. 
+Vignesh Swaminathan is a professional engineer, and the CEO and President of Crossroads Lab, an innovative transportation firm. He is more commonly recognized by his 1.5 million TikTok followers as [@mrbarricade](https://www.tiktok.com/@mrbarricade?is_from_webapp=1&sender_device=pc). In one [video](https://www.tiktok.com/@mrbarricade/video/6957349147255000325?is_from_webapp=1&sender_device=pc&web_id=7069183494844827141) Swaminathan discusses how the lack of drainage infrastructure in a redlined neighborhood in East Oakland has led to crumbling streets. After a rainstorm water sits stagnant, eroding the asphalt, softening the dirt underneath, and leading to potholes. 
 
 [!['Oakland Pothole Service Requests by Year', 'Graph of Oakland pothole service requests by year'](/Oakland_ServiceReq_Year.jpg)](https://www.datawrapper.de/_/xdjd1/)
 
-In 2019 the amount of pothole service requests peaked with a total of 5,767 requests. This is the same year that the [Pothole Vigilantes](https://www.potholevigilantes.com/) took matters into their own hands. Frustrated with the pace at which the city was repairing streets, the group of unidentified Oakland residents began buying EZ street asphalt and filling potholes in the middle of the night. The tagline of their website reads, “It would be great if the government did its job. Until then, we are here to fix Oakalnd’s streets.” 
+In 2019 the amount of pothole service requests peaked with a total of 5,767 requests. This is the same year that the [Pothole Vigilantes](https://www.potholevigilantes.com/) took matters into their own hands. Frustrated with the pace at which the city was repairing streets, the group of unidentified Oakland residents began buying EZ street asphalt and filling potholes in the middle of the night. The tagline of their website reads, “It would be great if the government did its job. Until then, we are here to fix Oakland’s streets.” 
 
-The Vigilantes raised nearly $14,000 in donations which were used to purchase supplies they provided to anyone who wanted to fix the problematic potholes in their neighborhood. But when the pandemic hit in 2020, their activity slowed down. Although the Vigilantes made progress, there are limitations to what citizens can do to fix the crumbling infrastructure. If there is a sinkhole or an entire street that needs repaving, these are issues that only larger scale government projects can address.
+The Vigilantes raised nearly $14,000 in donations which were used to purchase supplies they provided to anyone who wanted to fix problematic potholes in their neighborhood. But when the pandemic hit in 2020, their activity slowed down. Although the Vigilantes made progress, there are limitations to what citizens can do to fix the crumbling infrastructure. If there is a sinkhole or an entire street that needs repaving, these are issues that only larger scale government projects can address.
 
 The Vigilantes gained a lot of attention, and were even addressed by Mayor Libby Schaaf in a 2019 [tweet](https://twitter.com/LibbySchaaf/status/1125916750640439296?s=20&t=UTob-RPbQKojKOGFkSrueA) about the city’s three year [$100 million paving plan](https://www.oaklandca.gov/resources/2019-paving-plan).
 
@@ -37,7 +37,7 @@ In three years the city has almost reached its goal to pave 125 miles according 
 
 For the city to adequately address the infrastructure needs they conduct a survey every two to four years, resulting in the [Pavement Condition Index (PCI)](https://oakgis.maps.arcgis.com/apps/dashboards/5d844eacab5f40598fcd0e45376d785f). They then determine their pavement plan based on factors such as street conditions, traffic, and equity.
 
-According to the PCI a large portion of streets in poor condition are in the flatlands, historically poorer communities than the richer neighborhoods in the hills. In addition to being lower income, these are predominantly Black and Brown neighborhoods. 
+According to the PCI a large portion of streets in poor condition are in the flatlands, which are historically underserved compared to their wealthy counterparts in the hills. In addition to being lower income, these are predominantly Black and Brown neighborhoods. 
 
 In the past the city used 311 service requests to determine which areas were prioritized. Council District 4, represented by Councilmember Sheng Thao, has nearly 30% of all open service requests. This district spans the hills as well as the flatlands.  
 
@@ -53,11 +53,11 @@ The annual total of Oakland’s 2021-22 adopted budget is about [$2 billion](htt
 
 [!['21-23 Oakland Funds for Police and Transportation', 'Bar chart comparing OPD's and the Tansporation Departments allocated funds for 2021-2023.'](/2021-2023-allocated-funds-for-oakland-s-police-and-transportation-departments.png)](https://www.datawrapper.de/_/4nGtx/)
 
-Ahrens estimates it costs about $1 million to pave one mile. Without adequate funding these problems with the infrastructure will continue to arise. And despite service requests dropping since 2019, they still outpace repairs. 
+Ahrens estimates it costs about $1 million to pave one mile. Without adequate funding infrastructure will continue to deteriorate. And despite service requests dropping since 2019, they still outpace repairs. 
 
-When potholes aren’t addressed quickly, streets can rapidly deteriorate. As Mr. Barricade [states](https://www.tiktok.com/@mrbarricade/video/7036933065993702703?is_from_webapp=1&sender_device=pc), when the department of transportation is addressing potholes it is simply repaving rather than tackling the underlying drainage or infrastructure issues. This is a band aid solution that will never truly fix the problem.
+When potholes aren’t addressed quickly, streets can rapidly degrade. As Mr. Barricade [states](https://www.tiktok.com/@mrbarricade/video/7036933065993702703?is_from_webapp=1&sender_device=pc), when the department of transportation is addressing potholes it is simply repaving rather than tackling the underlying drainage or infrastructure issues. This is a band aid solution that will never truly fix the problem.
 
-There is no denying the paving plans are improving the quality of Oakland’s streets, but without allocating the necessary funds or fixing the underlying issues, the city may continue to be playing catch up with the deteriorating infrastructure. 
+There is no denying the paving plans are improving the quality of Oakland’s streets, but without allocating the necessary funds or fixing the underlying issues, the city will continue to play catch up. 
 
 “Our pothole team really is trying to plug a never ending flow of potholes that sort of keep reappearing,” said Ahrens.
 
