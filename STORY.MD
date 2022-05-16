@@ -61,27 +61,3 @@ There is no denying the paving plans are improving the quality of Oakland’s st
 
 “Our pothole team really is trying to plug a never ending flow of potholes that sort of keep reappearing,” said Ahrens.
 
-
-
-
-## Source List
-
-Logan Marshall
-  * Oakland resident / delivery driver
-  * (805) 252-8506
-  * He/him/his
-  * 30 years old
-
-Josie Ahrens
-  * Transportation Planner | Complete Streets Paving & Sidewalks
-  * Co-Chair | Racial Equity Team
-  * City of Oakland | Department of Transportation
-  * jahrens@oaklandca.gov | office: 510-238-6347
-  * pronouns: she/her/hers
-
-Sean M. Maher
-  * Public Information Officer for the City's Public Works and Transportation departments (OPW and OakDOT)
-  * SMaher@oaklandca.gov
-  * he/him/his
-
-
